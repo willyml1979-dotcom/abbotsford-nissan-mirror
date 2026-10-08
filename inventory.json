@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-10-04T16:32:02",
-  "vehicle_count": 202,
+  "generated_at": "2026-10-07T19:56:02",
+  "vehicle_count": 205,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -10,6 +10,7 @@
       "vin": "2HGFG3B56DH002869",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/09989c44447c.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2013-Honda-Civic-id14392409.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2013-Honda-Civic-id14392409.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,7 +20,7 @@
       "odometer_km": 251675,
       "year": 2013,
       "make": "Honda",
-      "model": "Civic LXin Abbotsford",
+      "model": "Civic",
       "condition": "used"
     },
     {
@@ -43,6 +44,7 @@
       "vin": "5N1AR2MM5EC614711",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/287397af82bc.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2014-Nissan-Pathfinder-id14177785.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2014-Nissan-Pathfinder-id14177785.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -52,7 +54,7 @@
       "odometer_km": 99014,
       "year": 2014,
       "make": "Nissan",
-      "model": "Pathfinder Sin Abbotsford",
+      "model": "Pathfinder",
       "condition": "used"
     },
     {
@@ -75,6 +77,7 @@
       "name": "2016 Honda Civic Sedan Touringin Abbotsford",
       "vin": "2HGFC1F94GH107668",
       "stock": "NUMBER",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8e2b457419f0.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2016-Honda-Civic_Sedan-id14172076.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2016-Honda-Civic_Sedan-id14172076.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -84,7 +87,7 @@
       "odometer_km": 177179,
       "year": 2016,
       "make": "Honda",
-      "model": "Civic Sedan Touringin Abbotsford",
+      "model": "Civic",
       "condition": "used"
     },
     {
@@ -107,6 +110,7 @@
       "vin": "1N4AL3AP6GN337221",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "2.5 Sl Tech",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/bc1a9bcaf147.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2016-Nissan-Altima-id14475242.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2016-Nissan-Altima-id14475242.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -116,7 +120,7 @@
       "odometer_km": 37277,
       "year": 2016,
       "make": "Nissan",
-      "model": "Altima 2.5 Sl Techin Abbotsford",
+      "model": "Altima",
       "condition": "used"
     },
     {
@@ -140,6 +144,7 @@
       "vin": "JN8AF5MV8GT655445",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/7a32d90dd7e9.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2016-Nissan-Juke-id14334088.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2016-Nissan-Juke-id14334088.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -149,7 +154,7 @@
       "odometer_km": 105826,
       "year": 2016,
       "make": "Nissan",
-      "model": "Juke SLin Abbotsford",
+      "model": "Juke",
       "condition": "used"
     },
     {
@@ -173,6 +178,7 @@
       "vin": "1C4NJRAB8HD164320",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "North Edition",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6fa9616f06d0.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2017-Jeep-Patriot-id14454430.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2017-Jeep-Patriot-id14454430.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -182,7 +188,7 @@
       "odometer_km": 44819,
       "year": 2017,
       "make": "Jeep",
-      "model": "Patriot North Editionin Abbotsford",
+      "model": "Patriot",
       "condition": "used"
     },
     {
@@ -205,6 +211,7 @@
       "vin": "JN8AY2NEXJ9734501",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/f2c13beec300.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2018-Nissan-Armada-id14359634.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2018-Nissan-Armada-id14359634.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -214,13 +221,14 @@
       "odometer_km": 276366,
       "year": 2018,
       "make": "Nissan",
-      "model": "Armada Platinumin Abbotsford",
+      "model": "Armada",
       "condition": "used"
     },
     {
       "name": "2018 Nissan Armada Platinumin Abbotsford",
       "vin": "JN8AY2NEXJ9734501",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/913c39f26b77.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2018-Nissan-Armada-id14359634.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2018-Nissan-Armada-id14359634.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -230,7 +238,7 @@
       "odometer_km": 276366,
       "year": 2018,
       "make": "Nissan",
-      "model": "Armada Platinumin Abbotsford",
+      "model": "Armada",
       "condition": "used"
     },
     {
@@ -254,6 +262,7 @@
       "vin": "5N1AZ2MH4JN124276",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Midnight Edition",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8a49a8915872.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2018-Nissan-Murano-id14371225.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2018-Nissan-Murano-id14371225.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -263,7 +272,7 @@
       "odometer_km": 129043,
       "year": 2018,
       "make": "Nissan",
-      "model": "Murano Midnight Editionin Abbotsford",
+      "model": "Murano",
       "condition": "used"
     },
     {
@@ -286,6 +295,7 @@
       "name": "2019 Honda Civic Coupe Touringin Abbotsford",
       "vin": "2HGFC3B99KH450017",
       "stock": "NUMBER",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/36dff2996763.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Honda-Civic_Coupe-id14160619.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Honda-Civic_Coupe-id14160619.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -295,7 +305,7 @@
       "odometer_km": 144993,
       "year": 2019,
       "make": "Honda",
-      "model": "Civic Coupe Touringin Abbotsford",
+      "model": "Civic",
       "condition": "used"
     },
     {
@@ -317,6 +327,7 @@
       "name": "2019 Honda Odyssey EXin Abbotsford",
       "vin": "5FNRL6H45KB501964",
       "stock": "NUMBER",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/d5d3704a0ba5.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Honda-Odyssey-id14216271.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Honda-Odyssey-id14216271.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -326,7 +337,7 @@
       "odometer_km": 149035,
       "year": 2019,
       "make": "Honda",
-      "model": "Odyssey EXin Abbotsford",
+      "model": "Odyssey",
       "condition": "used"
     },
     {
@@ -348,6 +359,7 @@
       "name": "2019 Kia Sportage LXin Abbotsford",
       "vin": "KNDPM3AC9K7510838",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8feb330d49b2.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Kia-Sportage-id14327907.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Kia-Sportage-id14327907.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -357,13 +369,14 @@
       "odometer_km": 87972,
       "year": 2019,
       "make": "Kia",
-      "model": "Sportage LXin Abbotsford",
+      "model": "Sportage",
       "condition": "used"
     },
     {
       "name": "2019 Kia Sportage LXin Abbotsford",
       "vin": "KNDPM3AC9K7510838",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/9a156d0f6517.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Kia-Sportage-id14327907.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Kia-Sportage-id14327907.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -373,7 +386,7 @@
       "odometer_km": 87972,
       "year": 2019,
       "make": "Kia",
-      "model": "Sportage LXin Abbotsford",
+      "model": "Sportage",
       "condition": "used"
     },
     {
@@ -395,6 +408,7 @@
       "name": "2019 Nissan Kicks SRin Abbotsford",
       "vin": "3N1CP5CU6KL539350",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/092e81a5a5b8.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371229.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371229.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -404,13 +418,14 @@
       "odometer_km": 39734,
       "year": 2019,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "used"
     },
     {
       "name": "2019 Nissan Kicks SRin Abbotsford",
       "vin": "3N1CP5CU6KL539350",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/20695cab6b25.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371229.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371229.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -420,13 +435,14 @@
       "odometer_km": 39734,
       "year": 2019,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "used"
     },
     {
       "name": "2019 Nissan Kicks SRin Abbotsford",
       "vin": "3N1CP5CU6KL521334",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0ba4fc4d1bd4.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371230.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371230.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -436,13 +452,14 @@
       "odometer_km": 121272,
       "year": 2019,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "used"
     },
     {
       "name": "2019 Nissan Kicks SRin Abbotsford",
       "vin": "3N1CP5CU6KL521334",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/da094d26f947.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371230.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Kicks-id14371230.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -452,7 +469,7 @@
       "odometer_km": 121272,
       "year": 2019,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "used"
     },
     {
@@ -475,6 +492,7 @@
       "vin": "JN1BJ1CRXKW319897",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b28baf8e364b.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Qashqai-id14454426.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2019-Nissan-Qashqai-id14454426.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -484,7 +502,7 @@
       "odometer_km": 75728,
       "year": 2019,
       "make": "Nissan",
-      "model": "Qashqai SLin Abbotsford",
+      "model": "Qashqai",
       "condition": "used"
     },
     {
@@ -522,6 +540,7 @@
       "name": "2020 Hyundai Elantra GT Luxuryin Abbotsford",
       "vin": "KMHH35LE0LU124597",
       "stock": "NUMBER",
+      "trim": "GT Luxury",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/3b13a95c5265.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2020-Hyundai-Elantra_GT-id14216286.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2020-Hyundai-Elantra_GT-id14216286.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -531,13 +550,14 @@
       "odometer_km": 70567,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra GT Luxuryin Abbotsford",
+      "model": "Elantra",
       "condition": "used"
     },
     {
       "name": "2020 Hyundai Elantra GT ",
       "vin": "KMHH35LE0LU124597",
       "stock": 14216286,
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/aa2deb19ae8e.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2020-Hyundai-Elantra_GT.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2020-Hyundai-Elantra_GT.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,7 +566,7 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra GT",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -568,6 +588,7 @@
       "name": "2020 Mazda CX-3 GSin Abbotsford",
       "vin": "JM1DKFC70L1467909",
       "stock": "NUMBER",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6c51cf41c08f.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2020-Mazda-CX_3-id14413708.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2020-Mazda-CX_3-id14413708.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -577,7 +598,7 @@
       "odometer_km": 114940,
       "year": 2020,
       "make": "Mazda",
-      "model": "CX-3 GSin Abbotsford",
+      "model": "CX-3",
       "condition": "used"
     },
     {
@@ -600,6 +621,7 @@
       "name": "2020 Nissan Murano Sin Abbotsford",
       "vin": "5N1AZ2AJ7LN102041",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/5c65bea95bc7.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2020-Nissan-Murano-id14172077.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2020-Nissan-Murano-id14172077.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -609,7 +631,7 @@
       "odometer_km": 158579,
       "year": 2020,
       "make": "Nissan",
-      "model": "Murano Sin Abbotsford",
+      "model": "Murano",
       "condition": "used"
     },
     {
@@ -647,6 +669,7 @@
       "name": "2021 BMW 3 Series 330i Xdrivein Abbotsford",
       "vin": "3MW5R7J07M8B49663",
       "stock": "NUMBER",
+      "trim": "330i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/25b62f641d70.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-BMW-3_Series-id14272782.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-BMW-3_Series-id14272782.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -656,7 +679,7 @@
       "odometer_km": 83720,
       "year": 2021,
       "make": "BMW",
-      "model": "3 Series 330i Xdrivein Abbotsford",
+      "model": "3 Series",
       "condition": "used"
     },
     {
@@ -712,6 +735,7 @@
       "vin": "KNDPNCAC5M7854246",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Ex S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/f601ebb49db5.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Kia-Sportage-id14454429.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Kia-Sportage-id14454429.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -721,7 +745,7 @@
       "odometer_km": 150890,
       "year": 2021,
       "make": "Kia",
-      "model": "Sportage Ex Sin Abbotsford",
+      "model": "Sportage",
       "condition": "used"
     },
     {
@@ -744,6 +768,7 @@
       "name": "2021 Nissan Kicks SVin Abbotsford",
       "vin": "3N1CP5CV9ML486977",
       "stock": "NUMBER",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/14a51399145f.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Kicks-id14371233.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Kicks-id14371233.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -753,13 +778,14 @@
       "odometer_km": 89995,
       "year": 2021,
       "make": "Nissan",
-      "model": "Kicks SVin Abbotsford",
+      "model": "Kicks",
       "condition": "used"
     },
     {
       "name": "2021 Nissan Kicks SVin Abbotsford",
       "vin": "3N1CP5CV9ML486977",
       "stock": "NUMBER",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ccaf7c2decc0.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Kicks-id14371233.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Kicks-id14371233.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -769,7 +795,7 @@
       "odometer_km": 89995,
       "year": 2021,
       "make": "Nissan",
-      "model": "Kicks SVin Abbotsford",
+      "model": "Kicks",
       "condition": "used"
     },
     {
@@ -792,6 +818,7 @@
       "name": "2021 Nissan Rogue Platinumin Abbotsford",
       "vin": "JN8AT3DD4MW313795",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/2b492218581e.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Rogue-id14349979.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Rogue-id14349979.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,13 +828,14 @@
       "odometer_km": 138563,
       "year": 2021,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "used"
     },
     {
       "name": "2021 Nissan Rogue Platinumin Abbotsford",
       "vin": "JN8AT3DD4MW313795",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/164797245957.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Rogue-id14349979.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Rogue-id14349979.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -817,7 +845,7 @@
       "odometer_km": 138563,
       "year": 2021,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "used"
     },
     {
@@ -839,6 +867,7 @@
       "name": "2021 Nissan Sentra SRin Abbotsford",
       "vin": "3N1AB8DV8MY212565",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/53507f11b1ed.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Sentra-id14334087.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Sentra-id14334087.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -848,13 +877,14 @@
       "odometer_km": 79163,
       "year": 2021,
       "make": "Nissan",
-      "model": "Sentra SRin Abbotsford",
+      "model": "Sentra",
       "condition": "used"
     },
     {
       "name": "2021 Nissan Sentra SRin Abbotsford",
       "vin": "3N1AB8DV8MY212565",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/cc3bff62eeea.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Sentra-id14334087.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Nissan-Sentra-id14334087.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -864,7 +894,7 @@
       "odometer_km": 79163,
       "year": 2021,
       "make": "Nissan",
-      "model": "Sentra SRin Abbotsford",
+      "model": "Sentra",
       "condition": "used"
     },
     {
@@ -902,6 +932,7 @@
       "name": "2021 Tesla Model 3 Standard Range Plusin Abbotsford",
       "vin": "5YJ3E1EA6MF850129",
       "stock": "NUMBER",
+      "trim": "Standard Range Plus",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0532705547bb.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2021-Tesla-Model_3-id14216287.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Tesla-Model_3-id14216287.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -911,7 +942,7 @@
       "odometer_km": 89871,
       "year": 2021,
       "make": "Tesla",
-      "model": "Model 3 Standard Range Plusin Abbotsford",
+      "model": "Model 3",
       "condition": "used"
     },
     {
@@ -949,6 +980,7 @@
       "name": "2022 BMW X2 Xdrive28iin Abbotsford",
       "vin": "WBXYJ1C02N5U24066",
       "stock": "NUMBER",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/7a1eb24fba1e.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2022-BMW-X2-id14386171.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2022-BMW-X2-id14386171.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -958,7 +990,7 @@
       "odometer_km": 81068,
       "year": 2022,
       "make": "BMW",
-      "model": "X2 Xdrive28iin Abbotsford",
+      "model": "X2",
       "condition": "used"
     },
     {
@@ -995,6 +1027,7 @@
       "name": "2022 Mitsubishi Outlander SELin Abbotsford",
       "vin": "JA4J4UA81NZ603833",
       "stock": "NUMBER",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0ebcb812ef98.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2022-Mitsubishi-Outlander-id14386172.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2022-Mitsubishi-Outlander-id14386172.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1004,7 +1037,7 @@
       "odometer_km": 104519,
       "year": 2022,
       "make": "Mitsubishi",
-      "model": "Outlander SELin Abbotsford",
+      "model": "Outlander",
       "condition": "used"
     },
     {
@@ -1042,6 +1075,7 @@
       "vin": "3N1CN8DV4NL855980",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/e5e0e1a9be5a.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2022-Nissan-Versa-id14141026.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2022-Nissan-Versa-id14141026.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1051,7 +1085,7 @@
       "odometer_km": 61753,
       "year": 2022,
       "make": "Nissan",
-      "model": "Versa Sin Abbotsford",
+      "model": "Versa",
       "condition": "used"
     },
     {
@@ -1195,6 +1229,7 @@
       "name": "2023 Kia Sportage LXin Abbotsford",
       "vin": "KNDPU3AFXP7182573",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6378f65c0f7a.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Kia-Sportage-id14231457.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Kia-Sportage-id14231457.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1204,7 +1239,7 @@
       "odometer_km": 33100,
       "year": 2023,
       "make": "Kia",
-      "model": "Sportage LXin Abbotsford",
+      "model": "Sportage",
       "condition": "used"
     },
     {
@@ -1242,6 +1277,7 @@
       "vin": "5N1AT3AB4PC685959",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6e883bf1eb85.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue-id14354325.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue-id14354325.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1251,13 +1287,14 @@
       "odometer_km": 84905,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue Sin Abbotsford",
+      "model": "Rogue",
       "condition": "used"
     },
     {
       "name": "2023 Nissan Rogue Sin Abbotsford",
       "vin": "5N1AT3AB4PC685959",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/4b14ab824234.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue-id14354325.html?show_video=1",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue-id14354325.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1267,7 +1304,7 @@
       "odometer_km": 84905,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue Sin Abbotsford",
+      "model": "Rogue",
       "condition": "used"
     },
     {
@@ -1335,6 +1372,7 @@
       "name": "2024 Ford Bronco Sport Big Bendin Abbotsford",
       "vin": "3FMCR9B62RRE54624",
       "stock": "NUMBER",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ce35fc7b7691.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Bronco_Sport-id14272783.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Bronco_Sport-id14272783.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1344,7 +1382,7 @@
       "odometer_km": 25993,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Sport Big Bendin Abbotsford",
+      "model": "Bronco Sport",
       "condition": "used"
     },
     {
@@ -1367,6 +1405,7 @@
       "vin": "1FTBR3U8XRKA46842",
       "stock": 14084659,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/826380ddc4a2.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Transit_Cargo_Van.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Transit_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1375,7 +1414,7 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
-      "model": "Transit Cargo Van",
+      "model": "Transit Cargo",
       "condition": "used"
     },
     {
@@ -1413,6 +1452,7 @@
       "vin": "1FTBR3U8XRKA46842",
       "stock": 14084659,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/826380ddc4a2.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Transit_Cargo_Van.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Transit_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1421,7 +1461,7 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
-      "model": "Transit Cargo Van",
+      "model": "Transit Cargo",
       "condition": "unknown"
     },
     {
@@ -1547,6 +1587,7 @@
       "name": "2024 Nissan Sentra SVin Abbotsford",
       "vin": "3N1AB8CVXRY369085",
       "stock": "NUMBER",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8bb6906f6e55.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Sentra-id14172075.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Sentra-id14172075.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1556,13 +1597,14 @@
       "odometer_km": 29031,
       "year": 2024,
       "make": "Nissan",
-      "model": "Sentra SVin Abbotsford",
+      "model": "Sentra",
       "condition": "used"
     },
     {
       "name": "2024 Nissan Sentra SVin Abbotsford",
       "vin": "3N1AB8CVXRY369247",
       "stock": "NUMBER",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/5a7a8cd010a3.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Sentra-id14216272.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Sentra-id14216272.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1572,7 +1614,7 @@
       "odometer_km": 67223,
       "year": 2024,
       "make": "Nissan",
-      "model": "Sentra SVin Abbotsford",
+      "model": "Sentra",
       "condition": "used"
     },
     {
@@ -1698,6 +1740,7 @@
       "vin": "3VV2B7AX4RM132309",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1c54c807a1e3.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Volkswagen-Tiguan-id14419835.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Volkswagen-Tiguan-id14419835.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1707,7 +1750,7 @@
       "odometer_km": 60528,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Abbotsford",
+      "model": "Tiguan",
       "condition": "used"
     },
     {
@@ -1823,6 +1866,7 @@
       "vin": "JN8BT3BB7SW156637",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sv Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/e43080f2c45e.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Rogue-id14419836.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Rogue-id14419836.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1832,7 +1876,7 @@
       "odometer_km": 40880,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue Sv Moonroofin Abbotsford",
+      "model": "Rogue",
       "condition": "used"
     },
     {
@@ -1855,6 +1899,7 @@
       "name": "2025 Nissan Versa SVin Abbotsford",
       "vin": "3N1CN8EV6SL863976",
       "stock": "NUMBER",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1be5cea35916.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Versa-id14340684.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Versa-id14340684.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1864,7 +1909,7 @@
       "odometer_km": 30780,
       "year": 2025,
       "make": "Nissan",
-      "model": "Versa SVin Abbotsford",
+      "model": "Versa",
       "condition": "used"
     },
     {
@@ -1872,6 +1917,7 @@
       "vin": "3N1CN8EV5SL863676",
       "stock": "NUMBER",
       "color": "GUN METALL",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6cc8baa53cf6.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Versa-id14340685.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Versa-id14340685.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1881,7 +1927,7 @@
       "odometer_km": 32429,
       "year": 2025,
       "make": "Nissan",
-      "model": "Versa SVin Abbotsford",
+      "model": "Versa",
       "condition": "used"
     },
     {
@@ -2122,6 +2168,7 @@
     {
       "name": "2026 Nissan Rogue Plug-In Hybridin Abbotsford",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/cf0c14278410.html",
       "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2130,7 +2177,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybridin Abbotsford",
+      "model": "Rogue Plug-In",
       "condition": "used"
     },
     {
@@ -2308,6 +2355,7 @@
     {
       "name": "2026 Nissan Rogue Plug-In Hybridin Abbotsford",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/cf0c14278410.html",
       "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2316,7 +2364,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybridin Abbotsford",
+      "model": "Rogue Plug-In",
       "condition": "unknown"
     },
     {
@@ -2354,15 +2402,16 @@
       "vin": "3N8AP6CB5TL357833",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/56c6c53093da.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13157545.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13157545.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:06:06",
+      "last_verified": "2026-10-07T19:53:25",
       "price": 32490.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SVin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
@@ -2370,15 +2419,16 @@
       "vin": "3N8AP6CB2TL359815",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/07191a46f8a4.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13178928.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13178928.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:06:15",
+      "last_verified": "2026-10-07T19:53:36",
       "price": 32980.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SVin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
@@ -2386,15 +2436,16 @@
       "vin": "3N8AP6DD5TL360327",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/5e769e61eb60.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13184733.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13184733.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:06:26",
+      "last_verified": "2026-10-07T19:53:48",
       "price": 36980.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
@@ -2402,30 +2453,32 @@
       "vin": "3N8AP6CE8TL358470",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/10554c5d5477.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13184734.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13184734.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:06:37",
+      "last_verified": "2026-10-07T19:54:00",
       "price": 29880.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SVin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
       "vin": "3N8AP6DD6TL402617",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/658051463eab.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13629558.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13629558.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:15:01",
-      "price": 37798.0,
+      "last_verified": "2026-10-07T19:55:36",
+      "price": 36690.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
@@ -2433,36 +2486,39 @@
       "vin": "3N8AP6DD6TL403282",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/6d1680c26a23.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13636294.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13636294.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:15:12",
-      "price": 38343.0,
+      "last_verified": "2026-10-07T19:55:46",
+      "price": 36690.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB2TL405323",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/6b6078691e20.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13652559.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13652559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:15:32",
-      "price": 31648.0,
+      "last_verified": "2026-10-07T19:55:56",
+      "price": 29980.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB0TL405790",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2d249d3002c1.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13652560.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13652560.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2471,13 +2527,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BBXTL405991",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c3eb497da8c0.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13652562.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13652562.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2486,13 +2543,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB8TL406721",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/416c54366007.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13657709.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13657709.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2501,13 +2559,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
       "vin": "3N8AP6DD9TL406855",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c037ac9c58b4.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663268.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663268.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2516,13 +2575,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
       "vin": "3N8AP6DD9TL407052",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a547ed40ed3f.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663270.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663270.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2531,13 +2591,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SRin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB5TL407096",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/9780e0767751.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663271.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663271.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2546,13 +2607,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB4TL407266",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/af939e746ef3.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663272.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663272.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2561,13 +2623,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB0TL407278",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/9f1d85f8b7fe.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663273.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13663273.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2576,7 +2639,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
@@ -2584,6 +2647,7 @@
       "vin": "3N8AP6BB3TL407906",
       "stock": "NUMBER",
       "color": "Bronze",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/9bc1f5150fb7.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13669028.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13669028.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2592,28 +2656,30 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB8TL404208",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/e545af52c03c.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13682835.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13682835.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:14:40",
-      "price": 31648.0,
+      "last_verified": "2026-10-07T19:55:24",
+      "price": 29980.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
       "vin": "3N8AP6BB2TL409047",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/488fb0cd92cf.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13682837.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13682837.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2622,7 +2688,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks Sin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
@@ -2630,6 +2696,7 @@
       "vin": "3N8AP6CE7TL405522",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/68805ed442b5.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13802713.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Kicks-id13802713.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2638,7 +2705,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SVin Abbotsford",
+      "model": "Kicks",
       "condition": "unknown"
     },
     {
@@ -2646,15 +2713,16 @@
       "vin": "JN8BT3DDXTW482383",
       "stock": "NUMBER",
       "color": "Dark blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/8fcf4f690044.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13262987.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13262987.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:06:59",
+      "last_verified": "2026-10-07T19:54:12",
       "price": 46990.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2662,15 +2730,16 @@
       "vin": "JN8BT3DD7TW308853",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/88061fc57816.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13296828.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13296828.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:07:08",
+      "last_verified": "2026-10-07T19:54:23",
       "price": 47790.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2678,15 +2747,16 @@
       "vin": "JN8BT3DDXTW308894",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2083644bcfe0.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13296832.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13296832.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:07:18",
+      "last_verified": "2026-10-07T19:54:34",
       "price": 47790.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2694,15 +2764,16 @@
       "vin": "JN8BT3DD1TW482952",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/3820d094186d.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13343204.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13343204.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:07:30",
-      "price": 48723.0,
+      "last_verified": "2026-10-07T19:54:44",
+      "price": 47990.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2710,15 +2781,16 @@
       "vin": "JN8BT3BB8TW093856",
       "stock": "NUMBER",
       "color": "Dark blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/bfefebdc51fc.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13474314.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13474314.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:07:39",
+      "last_verified": "2026-10-07T19:54:55",
       "price": 39880.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue SV Moonroofin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2726,21 +2798,23 @@
       "vin": "JN8BT3DD3TW309093",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/381b3dfe6df5.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13474316.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13474316.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:07:49",
-      "price": 48723.0,
+      "last_verified": "2026-10-07T19:55:05",
+      "price": 47990.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Rock Creekin Abbotsford",
       "vin": "JN8BT3BB6TW377275",
       "stock": "NUMBER",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c97a0d05004f.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13474317.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13474317.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2749,13 +2823,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Rock Creekin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
       "vin": "JN8BT3DD2TW312633",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/ac281c0d27ae.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13485997.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13485997.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2764,7 +2839,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2772,6 +2847,7 @@
       "vin": "JN8BT3BB5TW094219",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fe521dcf134e.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13514114.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13514114.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2780,7 +2856,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue SV Moonroofin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2788,6 +2864,7 @@
       "vin": "JN8BT3BB4TW095653",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2d6a657ff8cf.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13514115.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13514115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2796,7 +2873,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue SV Moonroofin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -2804,6 +2881,7 @@
       "vin": "JN8BT3BB4TW093921",
       "stock": "NUMBER",
       "color": "Dark blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/35f994ff11ac.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13519658.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13519658.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2812,13 +2890,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue SV Moonroofin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
       "vin": "JN8BT3BBXTW381961",
       "stock": "NUMBER",
+      "trim": "Sv Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/70fad066244e.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13519663.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13519663.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2827,13 +2906,48 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Sv Moonroofin Abbotsford",
+      "model": "Rogue",
+      "condition": "unknown"
+    },
+    {
+      "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB1TW384652",
+      "stock": "NUMBER",
+      "color": "Dark green",
+      "trim": "Sv Moonroof",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/217eb36aa215.html",
+      "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13663274.html",
+      "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13663274.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:52",
+      "price": 44448.0,
+      "price_currency": "CAD",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown"
+    },
+    {
+      "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB1TW384652",
+      "stock": "NUMBER",
+      "color": "Dark green",
+      "trim": "Sv Moonroof",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a32b01541259.html",
+      "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13663274.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13663274.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:03",
+      "price": 44448.0,
+      "price_currency": "CAD",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
       "vin": "JN8BT3BB8TW383093",
       "stock": "NUMBER",
+      "trim": "Sv Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/75430f9b1f09.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13829039.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13829039.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2842,13 +2956,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Sv Moonroofin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
       "vin": "JN8BT3DD0TW323064",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2fbf5f286c89.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13850863.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13850863.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2857,13 +2972,30 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
+      "condition": "unknown"
+    },
+    {
+      "name": "2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD0TW323064",
+      "stock": "NUMBER",
+      "trim": "Platinum",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/7a51b366d6db.html",
+      "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13850863.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13850863.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:14",
+      "price": 49048.0,
+      "price_currency": "CAD",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
       "vin": "JN8BT3DD1TW323221",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/f5bcbee6877b.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13857063.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13857063.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2872,13 +3004,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Rock Creekin Abbotsford",
       "vin": "JN8BT3BB3TW387469",
       "stock": "NUMBER",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/22e518db3f31.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13877160.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13877160.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2887,13 +3020,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Rock Creekin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Rock Creekin Abbotsford",
       "vin": "JN8BT3BB8TW388424",
       "stock": "NUMBER",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/72c3894afe7b.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13942233.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13942233.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2902,13 +3036,14 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Rock Creekin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
       "vin": "JN8BT3DD4TW322256",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fd0367a2cde9.html",
       "source_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13985224.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/inventory/2026-Nissan-Rogue-id13985224.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2917,7 +3052,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinumin Abbotsford",
+      "model": "Rogue",
       "condition": "unknown"
     },
     {
@@ -3111,14 +3246,14 @@
     },
     {
       "name": "2027 Nissan LEAF ",
-      "vin": "JN1AZ2BA3VM400357",
-      "stock": 14097403,
+      "vin": "JN1AZ2CA3VM401507",
+      "stock": 14059351,
       "color": "White",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/96ebcc24f368.html",
       "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-LEAF.html",
       "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-LEAF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:07:59",
-      "price": 47748.0,
+      "last_verified": "2026-10-07T19:55:15",
+      "price": 51293.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "Nissan",
