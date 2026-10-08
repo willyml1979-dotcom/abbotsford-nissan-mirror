@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-10-07T19:56:02",
-  "vehicle_count": 205,
+  "generated_at": "2026-10-07T21:38:08",
+  "vehicle_count": 195,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -21,7 +21,28 @@
       "year": 2013,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2013 Honda Civic LXin Abbotsford",
+      "vin": "2HGFG3B56DH002869",
+      "stock": "NUMBER",
+      "trim": "LX",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/544d969e7e30.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2013-Honda-Civic-id14392409.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2013-Honda-Civic-id14392409.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:34:05",
+      "price": 7290.0,
+      "price_currency": "CAD",
+      "odometer_km": 251675,
+      "year": 2013,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2013 Honda Civic ",
@@ -37,7 +58,9 @@
       "year": 2013,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Pathfinder Sin Abbotsford",
@@ -55,7 +78,9 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Pathfinder ",
@@ -71,7 +96,9 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Honda Civic Sedan Touringin Abbotsford",
@@ -88,7 +115,9 @@
       "year": 2016,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Honda Civic Sedan ",
@@ -103,7 +132,9 @@
       "year": 2016,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Altima 2.5 Sl Techin Abbotsford",
@@ -121,7 +152,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Altima ",
@@ -137,7 +170,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Juke SLin Abbotsford",
@@ -155,7 +190,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Juke",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Juke ",
@@ -171,40 +208,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Juke",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Jeep Patriot North Editionin Abbotsford",
-      "vin": "1C4NJRAB8HD164320",
-      "stock": "NUMBER",
-      "color": "Beige",
-      "trim": "North Edition",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6fa9616f06d0.html",
-      "source_url": "https://www.abbotsfordnissan.com/used/2017-Jeep-Patriot-id14454430.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/used/2017-Jeep-Patriot-id14454430.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:48:31",
-      "price": 12995.0,
-      "price_currency": "CAD",
-      "odometer_km": 44819,
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Patriot",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Jeep Patriot ",
-      "vin": "1C4NJRAB8HD164320",
-      "stock": 14413709,
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/358724a1e4f1.html",
-      "source_url": "https://www.abbotsfordnissan.com/used/2017-Jeep-Patriot.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/used/2017-Jeep-Patriot.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T18:55:58",
-      "price": 12995.0,
-      "price_currency": "CAD",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Patriot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Armada Platinumin Abbotsford",
@@ -222,7 +228,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Armada Platinumin Abbotsford",
@@ -239,7 +247,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Armada ",
@@ -255,7 +265,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano Midnight Editionin Abbotsford",
@@ -273,7 +285,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -289,7 +303,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic Coupe Touringin Abbotsford",
@@ -306,7 +322,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic Coupe ",
@@ -321,7 +339,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic Coupe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Odyssey EXin Abbotsford",
@@ -338,7 +358,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Odyssey ",
@@ -353,7 +375,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage LXin Abbotsford",
@@ -370,7 +394,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage LXin Abbotsford",
@@ -387,7 +413,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage ",
@@ -402,7 +430,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks SRin Abbotsford",
@@ -419,7 +449,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks SRin Abbotsford",
@@ -436,7 +468,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks SRin Abbotsford",
@@ -453,7 +487,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks SRin Abbotsford",
@@ -470,7 +506,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks ",
@@ -485,7 +523,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Qashqai SLin Abbotsford",
@@ -503,7 +543,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Qashqai ",
@@ -519,7 +561,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks ",
@@ -534,7 +578,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra GT Luxuryin Abbotsford",
@@ -551,7 +597,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra GT ",
@@ -567,7 +615,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus RX ",
@@ -582,7 +632,9 @@
       "year": 2020,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-3 GSin Abbotsford",
@@ -599,7 +651,28 @@
       "year": 2020,
       "make": "Mazda",
       "model": "CX-3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2020 Mazda CX-3 GSin Abbotsford",
+      "vin": "JM1DKFC70L1467909",
+      "stock": "NUMBER",
+      "trim": "GS",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ae2c8854a001.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2020-Mazda-CX_3-id14413708.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2020-Mazda-CX_3-id14413708.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:34:16",
+      "price": 17995.0,
+      "price_currency": "CAD",
+      "odometer_km": 114940,
+      "year": 2020,
+      "make": "Mazda",
+      "model": "CX-3",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-3 ",
@@ -615,7 +688,9 @@
       "year": 2020,
       "make": "Mazda",
       "model": "CX-3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Murano Sin Abbotsford",
@@ -632,7 +707,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Murano ",
@@ -647,7 +724,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Porsche 911 ",
@@ -663,7 +742,9 @@
       "year": 2020,
       "make": "Porsche",
       "model": "911",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 3 Series 330i Xdrivein Abbotsford",
@@ -680,7 +761,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 3 Series ",
@@ -695,7 +778,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Rio5 LXin Abbotsford",
@@ -712,7 +797,27 @@
       "year": 2021,
       "make": "Kia",
       "model": "Rio5 LXin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2021 Kia Rio5 LXin Abbotsford",
+      "vin": "3KPA25AD4ME432181",
+      "stock": "NUMBER",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/4e5761059548.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2021-Kia-Rio5-id14454428.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Kia-Rio5-id14454428.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:34:27",
+      "price": 13998.0,
+      "price_currency": "CAD",
+      "odometer_km": 113690,
+      "year": 2021,
+      "make": "Kia",
+      "model": "Rio5 LXin Abbotsford",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Rio5 ",
@@ -728,7 +833,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Rio5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sportage Ex Sin Abbotsford",
@@ -746,7 +853,28 @@
       "year": 2021,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2021 Kia Sportage Ex Sin Abbotsford",
+      "vin": "KNDPNCAC5M7854246",
+      "stock": "NUMBER",
+      "trim": "Ex S",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6a1091cd41db.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2021-Kia-Sportage-id14454429.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2021-Kia-Sportage-id14454429.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:34:35",
+      "price": 18990.0,
+      "price_currency": "CAD",
+      "odometer_km": 150890,
+      "year": 2021,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sportage ",
@@ -762,7 +890,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Kicks SVin Abbotsford",
@@ -779,7 +909,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Kicks SVin Abbotsford",
@@ -796,7 +928,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Kicks ",
@@ -812,7 +946,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Rogue Platinumin Abbotsford",
@@ -829,7 +965,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Rogue Platinumin Abbotsford",
@@ -846,7 +984,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Rogue ",
@@ -861,7 +1001,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Sentra SRin Abbotsford",
@@ -878,7 +1020,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Sentra SRin Abbotsford",
@@ -895,7 +1039,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Sentra ",
@@ -910,7 +1056,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Kicks ",
@@ -926,7 +1074,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Tesla Model 3 Standard Range Plusin Abbotsford",
@@ -943,7 +1093,9 @@
       "year": 2021,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Tesla Model 3 ",
@@ -958,7 +1110,9 @@
       "year": 2021,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Highlander ",
@@ -974,7 +1128,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X2 Xdrive28iin Abbotsford",
@@ -991,7 +1147,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X2 ",
@@ -1006,7 +1164,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 BMW X2 ",
@@ -1021,7 +1181,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "X2",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander SELin Abbotsford",
@@ -1038,7 +1200,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander ",
@@ -1053,7 +1217,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Pathfinder ",
@@ -1068,7 +1234,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Versa Sin Abbotsford",
@@ -1086,7 +1254,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Versa ",
@@ -1102,7 +1272,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Ascent ",
@@ -1118,7 +1290,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model Y ",
@@ -1133,7 +1307,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Tundra ",
@@ -1148,7 +1324,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC90 ",
@@ -1163,7 +1341,9 @@
       "year": 2022,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Grand Caravan ",
@@ -1178,7 +1358,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Grand Caravan ",
@@ -1193,7 +1375,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Odyssey ",
@@ -1202,13 +1386,15 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/951891b2036b.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Honda-Odyssey.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Honda-Odyssey.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:39:52",
+      "last_verified": "2026-10-07T21:35:46",
       "price": 44590.0,
       "price_currency": "CAD",
       "year": 2023,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Odyssey ",
@@ -1223,7 +1409,9 @@
       "year": 2023,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage LXin Abbotsford",
@@ -1233,14 +1421,16 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6378f65c0f7a.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Kia-Sportage-id14231457.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Kia-Sportage-id14231457.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:40:03",
-      "price": 22490.0,
+      "last_verified": "2026-10-07T21:35:57",
+      "price": 22280.0,
       "price_currency": "CAD",
       "odometer_km": 33100,
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -1249,13 +1439,15 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/45ca63829f22.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Kia-Sportage.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Kia-Sportage.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:40:15",
-      "price": 22490.0,
+      "last_verified": "2026-10-07T21:36:07",
+      "price": 22280.0,
       "price_currency": "CAD",
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -1270,25 +1462,28 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue Sin Abbotsford",
       "vin": "5N1AT3AB4PC685959",
       "stock": "NUMBER",
-      "color": "White",
       "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6e883bf1eb85.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue-id14354325.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue-id14354325.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:40:33",
-      "price": 24990.0,
+      "last_verified": "2026-10-07T21:36:18",
+      "price": 24490.0,
       "price_currency": "CAD",
       "odometer_km": 84905,
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue Sin Abbotsford",
@@ -1305,23 +1500,26 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
       "vin": "5N1AT3AB4PC685959",
       "stock": 14354325,
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1589f9c9a61c.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2023-Nissan-Rogue.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:40:42",
-      "price": 24990.0,
+      "last_verified": "2026-10-07T21:36:29",
+      "price": 24490.0,
       "price_currency": "CAD",
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -1336,7 +1534,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX ",
@@ -1345,13 +1545,31 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a0c2f4cb3338.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Acura-MDX.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Acura-MDX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:40:51",
+      "last_verified": "2026-10-07T21:36:39",
       "price": 53698.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2024 Acura ZDX ",
+      "vin": "4W5KHNRL7RZ501944",
+      "stock": 14490242,
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/d63c1191739c.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2024-Acura-ZDX.html",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Acura-ZDX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:34:46",
+      "year": 2024,
+      "make": "Acura",
+      "model": "ZDX",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX ",
@@ -1366,7 +1584,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "MDX",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport Big Bendin Abbotsford",
@@ -1376,14 +1596,16 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ce35fc7b7691.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Bronco_Sport-id14272783.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Bronco_Sport-id14272783.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:41:12",
-      "price": 30790.0,
+      "last_verified": "2026-10-07T21:36:51",
+      "price": 29980.0,
       "price_currency": "CAD",
       "odometer_km": 25993,
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1392,13 +1614,15 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/5d490210a5c1.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Bronco_Sport.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Bronco_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:41:23",
-      "price": 30790.0,
+      "last_verified": "2026-10-07T21:37:00",
+      "price": 29980.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Transit Cargo Van ",
@@ -1409,13 +1633,15 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/826380ddc4a2.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Transit_Cargo_Van.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Ford-Transit_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:41:42",
+      "last_verified": "2026-10-07T21:37:08",
       "price": 48500.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
       "model": "Transit Cargo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1430,7 +1656,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1445,7 +1673,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Transit Cargo Van ",
@@ -1462,7 +1692,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Transit Cargo",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Infiniti QX60 ",
@@ -1471,13 +1703,15 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/20f12bdfbac0.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Infiniti-QX60.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Infiniti-QX60.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:42:03",
-      "price": 42998.0,
+      "last_verified": "2026-10-07T21:37:17",
+      "price": 42290.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Infiniti QX60 ",
@@ -1492,7 +1726,9 @@
       "year": 2024,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus RX ",
@@ -1501,13 +1737,15 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/e889ba5dfecb.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Lexus-RX.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Lexus-RX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:42:29",
-      "price": 56290.0,
+      "last_verified": "2026-10-07T21:37:26",
+      "price": 55980.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus RX ",
@@ -1522,37 +1760,81 @@
       "year": 2024,
       "make": "Lexus",
       "model": "RX",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier ",
       "vin": "1N6ED1FK3RN659471",
       "stock": 14315181,
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a4fb8c99eb7f.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Frontier.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Frontier.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:42:50",
-      "price": 48490.0,
+      "last_verified": "2026-10-07T21:37:35",
+      "price": 46490.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2024 Nissan Kicks SVin Abbotsford",
+      "vin": "3N1CP5CVXRL578770",
+      "stock": "NUMBER",
+      "trim": "SV",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/48fcf3460bb3.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Kicks-id14419837.html",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Kicks-id14419837.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:34:56",
+      "price": 22990.0,
+      "price_currency": "CAD",
+      "odometer_km": 26564,
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2024 Nissan Kicks SVin Abbotsford",
+      "vin": "3N1CP5CVXRL578770",
+      "stock": "NUMBER",
+      "trim": "SV",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/beabf6462319.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Kicks-id14419837.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Kicks-id14419837.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:35:07",
+      "price": 22990.0,
+      "price_currency": "CAD",
+      "odometer_km": 26564,
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
       "vin": "3N1CP5CVXRL578770",
       "stock": 14419837,
-      "color": "Grey",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/71685206bd19.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Kicks.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Kicks.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:43:00",
+      "last_verified": "2026-10-07T21:37:44",
+      "price": 22990.0,
+      "price_currency": "CAD",
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Pathfinder ",
@@ -1561,13 +1843,15 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/915de8655728.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Pathfinder.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Pathfinder.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:43:10",
-      "price": 36980.0,
+      "last_verified": "2026-10-07T21:37:54",
+      "price": 35900.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1581,7 +1865,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra SVin Abbotsford",
@@ -1591,14 +1877,16 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8bb6906f6e55.html",
       "source_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Sentra-id14172075.html",
       "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Nissan-Sentra-id14172075.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:43:22",
-      "price": 21980.0,
+      "last_verified": "2026-10-07T21:38:04",
+      "price": 21500.0,
       "price_currency": "CAD",
       "odometer_km": 29031,
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra SVin Abbotsford",
@@ -1615,7 +1903,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra ",
@@ -1630,7 +1920,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier ",
@@ -1645,7 +1937,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -1659,7 +1953,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Pathfinder ",
@@ -1674,7 +1970,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1688,7 +1986,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra ",
@@ -1703,7 +2003,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma ",
@@ -1718,7 +2020,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma ",
@@ -1733,7 +2037,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan Comfortlinein Abbotsford",
@@ -1751,7 +2057,28 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2024 Volkswagen Tiguan Comfortlinein Abbotsford",
+      "vin": "3VV2B7AX4RM132309",
+      "stock": "NUMBER",
+      "trim": "Comfortline",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1470cdb47975.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2024-Volkswagen-Tiguan-id14419835.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2024-Volkswagen-Tiguan-id14419835.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:35:17",
+      "price": 29995.0,
+      "price_currency": "CAD",
+      "odometer_km": 60528,
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1767,7 +2094,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1783,7 +2112,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -1797,7 +2128,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Chrysler Pacifica ",
@@ -1812,7 +2145,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Chrysler Pacifica ",
@@ -1827,7 +2162,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus RZ ",
@@ -1843,7 +2180,9 @@
       "year": 2025,
       "make": "Lexus",
       "model": "RZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus RZ ",
@@ -1859,7 +2198,25 @@
       "year": 2025,
       "make": "Lexus",
       "model": "RZ",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2025 Nissan Kicks Play ",
+      "vin": "3N1CP5BV6SL479726",
+      "stock": 14490241,
+      "trim": "Play",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b5d4cc8be7b8.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Kicks_Play.html",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:35:27",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue Sv Moonroofin Abbotsford",
@@ -1877,7 +2234,28 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
+    },
+    {
+      "name": "2025 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB7SW156637",
+      "stock": "NUMBER",
+      "trim": "Sv Moonroof",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/83ede1012fe0.html",
+      "source_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Rogue-id14419836.html?show_video=1",
+      "dealer_url": "https://www.abbotsfordnissan.com/used/2025-Nissan-Rogue-id14419836.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T21:35:37",
+      "price": 30995.0,
+      "price_currency": "CAD",
+      "odometer_km": 40962,
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1893,7 +2271,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Versa SVin Abbotsford",
@@ -1910,7 +2290,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Versa SVin Abbotsford",
@@ -1928,7 +2310,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Versa ",
@@ -1944,7 +2328,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1960,7 +2346,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Versa ",
@@ -1976,7 +2364,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra ",
@@ -1991,7 +2381,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra ",
@@ -2006,7 +2398,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX ",
@@ -2022,7 +2416,9 @@
       "year": 2026,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Lexus RX ",
@@ -2038,179 +2434,9 @@
       "year": 2026,
       "make": "Lexus",
       "model": "RX",
-      "condition": "unknown"
-    },
-    {
-      "name": "2026 Nissan Ariya ",
-      "vin": "DCS533551268XLB16",
-      "stock": 13308302,
-      "color": "Dark grey",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ba82ed4e80c4.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-ARIYA.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-ARIYA.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:45:56",
-      "price": 54298.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Ariya",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Armada ",
-      "vin": "JN8AY3CC3T9230933",
-      "stock": 13961775,
-      "color": "ALPINE MET",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/c2429d6dc6de.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Armada.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Armada.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:06",
-      "price": 94990.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Armada",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Frontierin Abbotsford",
-      "stock": "NUMBER",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/cf75d6f6fe8d.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Frontier.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Frontier.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:16",
-      "price": 58648.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Frontierin Abbotsford",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Kicks ",
-      "vin": "3N8AP6CE5TL358037",
-      "stock": 13157544,
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ba47cb7b6563.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Kicks.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Kicks.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:25",
-      "price": 29880.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan LEAF ",
-      "vin": "JN1AZ2BA5TM309104",
-      "stock": 14327899,
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/adaf9d72fd51.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-LEAF.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-LEAF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:35",
-      "price": 47298.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "LEAF",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Murano ",
-      "vin": "DCS64492526LXEG16",
-      "stock": 13785424,
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0b966974c444.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Murano.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Murano.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:46",
-      "price": 58798.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Pathfinder ",
-      "vin": "5N1DR3DJ6TC280792",
-      "stock": 14129248,
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/c9ddcc9c4e3d.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Pathfinder.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Pathfinder.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:46:56",
-      "price": 63498.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Rogue ",
-      "vin": "JN8BT3AB4TW095833",
-      "stock": 14320460,
-      "color": "Dark blue",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0acc7ddd680d.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:47:08",
-      "price": 36998.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Rogue Plug-In Hybridin Abbotsford",
-      "stock": "NUMBER",
-      "trim": "Hybrid",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/cf0c14278410.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:47:18",
-      "price": 60893.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue Plug-In",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Sentra ",
-      "vin": "3N1AB9CV7TY303882",
-      "stock": 14041063,
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/c9be7a5f4aff.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Sentra.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Sentra.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:47:30",
-      "price": 29218.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Nissan Z ",
-      "vin": "JN1BZ4CH5TM501327",
-      "stock": 13647006,
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/75619297a805.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Z.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2026-Nissan-Z.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:47:39",
-      "price": 65998.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Z",
-      "condition": "used"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2225,7 +2451,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Ariya ",
@@ -2241,7 +2469,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Ariya",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Armada ",
@@ -2257,7 +2487,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Frontierin Abbotsford",
@@ -2271,7 +2503,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Frontierin Abbotsford",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -2287,7 +2521,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan LEAF ",
@@ -2303,7 +2539,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Murano ",
@@ -2318,7 +2556,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder ",
@@ -2334,7 +2574,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2350,7 +2592,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybridin Abbotsford",
@@ -2365,7 +2609,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue Plug-In",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -2381,7 +2627,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Zin Abbotsford",
@@ -2395,7 +2643,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Zin Abbotsford",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SVin Abbotsford",
@@ -2412,7 +2662,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SVin Abbotsford",
@@ -2429,7 +2681,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
@@ -2446,7 +2700,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SVin Abbotsford",
@@ -2463,7 +2719,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
@@ -2479,7 +2737,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
@@ -2496,7 +2756,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2512,7 +2774,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2528,7 +2792,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2544,7 +2810,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2560,7 +2828,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
@@ -2576,7 +2846,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SRin Abbotsford",
@@ -2592,7 +2864,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2608,7 +2882,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2624,7 +2900,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2640,7 +2918,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2657,7 +2937,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2673,7 +2955,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks Sin Abbotsford",
@@ -2689,7 +2973,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SVin Abbotsford",
@@ -2706,7 +2992,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2723,7 +3011,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2740,7 +3030,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2757,7 +3049,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2774,7 +3068,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroofin Abbotsford",
@@ -2791,7 +3087,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2808,7 +3106,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Rock Creekin Abbotsford",
@@ -2824,7 +3124,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2840,7 +3142,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroofin Abbotsford",
@@ -2857,7 +3161,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroofin Abbotsford",
@@ -2874,7 +3180,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroofin Abbotsford",
@@ -2891,7 +3199,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
@@ -2907,7 +3217,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
@@ -2924,7 +3236,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
@@ -2941,7 +3255,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
@@ -2957,7 +3273,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2973,7 +3291,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -2989,7 +3309,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -3005,7 +3327,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Rock Creekin Abbotsford",
@@ -3021,7 +3345,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Rock Creekin Abbotsford",
@@ -3037,7 +3363,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinumin Abbotsford",
@@ -3053,7 +3381,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -3068,117 +3398,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "unknown"
-    },
-    {
-      "name": "2027 Nissan Ariya ",
-      "vin": "JN8DF0BF2VM830081",
-      "stock": 13985225,
-      "color": "NORTHERN LIGHTS METALLIC",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/92e3e8a5ac11.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-ARIYA.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-ARIYA.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:47:48",
-      "price": 55748.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Ariya",
-      "condition": "used"
-    },
-    {
-      "name": "2027 Nissan Armada ",
-      "vin": "JN8AY3DE8V9460616",
-      "stock": 14261669,
-      "color": "ALPINE METALLIC",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/13037d5dca97.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Armada.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Armada.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:48:21",
-      "price": 99398.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Armada",
-      "condition": "used"
-    },
-    {
-      "name": "2027 Nissan Frontier ",
-      "vin": "1N6ED1EK3VN600805",
-      "stock": 14348588,
-      "color": "Orange",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b01ff2fe444d.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Frontier.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Frontier.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:47:59",
-      "price": 62448.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Frontier",
-      "condition": "used"
-    },
-    {
-      "name": "2027 Nissan Kicks ",
-      "vin": "DCS71183127V5RG17",
-      "stock": 13871093,
-      "color": "GUN METALL",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0ba91df578f0.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Kicks.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Kicks.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:48:09",
-      "price": 28048.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used"
-    },
-    {
-      "name": "2027 Nissan LEAF ",
-      "vin": "JN1AZ2BA3VM400357",
-      "stock": 14097403,
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/96ebcc24f368.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-LEAF.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-LEAF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:48:21",
-      "price": 47748.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "LEAF",
-      "condition": "used"
-    },
-    {
-      "name": "2027 Nissan Murano ",
-      "vin": "5N1AZ3DS2VC103056",
-      "stock": 14216291,
-      "color": "Silver",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/f3630be3dddc.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Murano.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Murano.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:51:58",
-      "price": 60948.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used"
-    },
-    {
-      "name": "2027 Nissan Zin Abbotsford",
-      "stock": "NUMBER",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/f80cb024c0b8.html",
-      "source_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Z.html",
-      "dealer_url": "https://www.abbotsfordnissan.com/new/2027-Nissan-Z.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:52:09",
-      "price": 52298.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Zin Abbotsford",
-      "condition": "used"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Ariya ",
@@ -3194,7 +3416,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Ariya",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Armada ",
@@ -3210,7 +3434,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier ",
@@ -3226,7 +3452,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Kicks ",
@@ -3242,7 +3470,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF ",
@@ -3258,7 +3488,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano ",
@@ -3274,7 +3506,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Z ",
@@ -3290,7 +3524,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Z",
-      "condition": "unknown"
+      "condition": "unknown",
+      "city": "Abbotsford",
+      "province": "BC"
     }
   ]
 }
