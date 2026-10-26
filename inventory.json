@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-10-26T06:56:08",
+  "generated_at": "2026-10-26T06:59:53",
   "vehicle_count": 195,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -166,9 +166,33 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB1TW384652",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/217eb36aa215.html",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB1TW384652",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a32b01541259.html",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
       "vin": "JN8BT3DD0TW323064",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2fbf5f286c89.html",
+      "condition": "unknown",
+      "price": 49048.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD0TW323064",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/7a51b366d6db.html",
       "condition": "unknown",
       "price": 49048.0,
       "price_currency": "CAD"
@@ -1905,28 +1929,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
-      "vin": "JN8BT3BB1TW384652",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/217eb36aa215.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Sv Moonroofin Abbotsford",
-      "vin": "JN8BT3BB1TW384652",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a32b01541259.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Nissan Rogue Sv Moonroof demoin Abbotsford",
       "vin": "JN8BT3BB8TW383093",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/75430f9b1f09.html",
@@ -1935,17 +1937,6 @@
       "model": "Rogue",
       "condition": "unknown",
       "price": 39228.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD0TW323064",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/7a51b366d6db.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 49048.0,
       "price_currency": "CAD"
     },
     {
