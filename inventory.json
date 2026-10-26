@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-10-25T22:18:33",
+  "generated_at": "2026-10-26T06:56:08",
   "vehicle_count": 195,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -461,6 +461,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Nissan Sentra SVin Abbotsford",
+      "vin": "3N1AB7AP2JY292392",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/77bc7c0e2873.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 12990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Nissan Sentra ",
+      "vin": "3N1AB7AP2JY292392",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6d8b0a9ea2c5.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 12990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Kia Sportage LXin Abbotsford",
       "vin": "KNDPM3AC9K7510838",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8feb330d49b2.html",
@@ -765,7 +787,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 22290.0,
+      "price": 21980.0,
       "price_currency": "CAD"
     },
     {
@@ -787,7 +809,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 22290.0,
+      "price": 21980.0,
       "price_currency": "CAD"
     },
     {
@@ -798,7 +820,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 19490.0,
+      "price": 19980.0,
       "price_currency": "CAD"
     },
     {
@@ -820,7 +842,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 19490.0,
+      "price": 19980.0,
       "price_currency": "CAD"
     },
     {
@@ -931,28 +953,6 @@
       "model": "Outlander",
       "condition": "used",
       "price": 26690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Pathfinder Platinumin Abbotsford",
-      "vin": "5N1DR3DF9NC214820",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/9a2852796ab1.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 32690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Pathfinder ",
-      "vin": "5N1DR3DF9NC214820",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/558472715a16.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 32690.0,
       "price_currency": "CAD"
     },
     {
