@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-10-25T22:12:15",
+  "generated_at": "2026-10-25T22:18:33",
   "vehicle_count": 195,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -198,6 +198,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD4TW322256",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fd0367a2cde9.html",
+      "condition": "unknown",
+      "price": 49593.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
       "vin": "JN8BT3BB8TW388925",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2c04b8ff2bc2.html",
@@ -283,6 +291,14 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/e9f160c938f0.html",
       "condition": "unknown",
       "price": 55748.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Ariya Platinumin Abbotsford",
+      "vin": "JN8DF0CHXVM830085",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/74b43a5f660b.html",
+      "condition": "unknown",
+      "price": 62398.0,
       "price_currency": "CAD"
     },
     {
@@ -1473,7 +1489,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "unknown",
-      "price": 38490.0,
+      "price": 36990.0,
       "price_currency": "CAD"
     },
     {
@@ -1619,13 +1635,13 @@
     },
     {
       "name": "2025 Nissan Rogue ",
-      "vin": "JN8BT3BB7SW156637",
+      "vin": "JN8BT3BB3SW427922",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/16ff23491751.html",
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "unknown",
-      "price": 30995.0,
+      "price": 29598.0,
       "price_currency": "CAD"
     },
     {
@@ -1636,7 +1652,7 @@
       "make": "Nissan",
       "model": "Versa",
       "condition": "unknown",
-      "price": 22590.0,
+      "price": 21990.0,
       "price_currency": "CAD"
     },
     {
@@ -1738,14 +1754,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Murano ",
-      "vin": "DCS64492526LXEG16",
+      "name": "2026 Nissan Muranoin Abbotsford",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/0b966974c444.html",
       "year": 2026,
       "make": "Nissan",
-      "model": "Murano",
+      "model": "Muranoin Abbotsford",
       "condition": "unknown",
-      "price": 58798.0,
+      "price": 60648.0,
       "price_currency": "CAD"
     },
     {
@@ -1835,7 +1850,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks Sin Abbotsford",
+      "name": "2026 Nissan Kicks S demoin Abbotsford",
       "vin": "3N8AP6BB8TL404208",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/dde581e4ef55.html",
       "year": 2026,
@@ -1934,17 +1949,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD4TW322256",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fd0367a2cde9.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 49593.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Nissan Ariya ",
       "vin": "JN8AF0BE1VM630111",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/92e3e8a5ac11.html",
@@ -2019,17 +2023,6 @@
       "model": "Z",
       "condition": "unknown",
       "price": 62998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Nissan Ariya Platinumin Abbotsford",
-      "vin": "JN8DF0CHXVM830085",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/74b43a5f660b.html",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Ariya",
-      "condition": "unknown",
-      "price": 62398.0,
       "price_currency": "CAD"
     }
   ]
