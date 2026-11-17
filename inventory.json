@@ -1,344 +1,122 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-10-26T06:59:53",
-  "vehicle_count": 195,
+  "generated_at": "2026-11-17T06:39:22",
+  "vehicle_count": 199,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Nissan Kicks SVin Abbotsford",
-      "vin": "3N8AP6CB5TL357833",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/56c6c53093da.html",
-      "condition": "unknown",
-      "price": 29993.0,
+      "name": "Nissan Qashqai 2019 for salein Abbotsford",
+      "vin": "JN1BJ1CP0KW215921",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b32b79bc8a8d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Nissan Kicks 2020 for salein Abbotsford",
+      "vin": "3N1CP5CV2LL549691",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/c04da850b305.html",
+      "condition": "used",
+      "price": 14990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks SVin Abbotsford",
-      "vin": "3N8AP6CB2TL359815",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/07191a46f8a4.html",
-      "condition": "unknown",
-      "price": 32980.0,
+      "name": "BMW X2 2022 for salein Abbotsford",
+      "vin": "WBXYJ1C02N5U24066",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/321e8175ae59.html",
+      "condition": "used",
+      "price": 25980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks SRin Abbotsford",
-      "vin": "3N8AP6DD5TL360327",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/5e769e61eb60.html",
-      "condition": "unknown",
-      "price": 35590.0,
+      "name": "BMW X5 2022 for salein Abbotsford",
+      "vin": "5UXCR6C06N9L89648",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/aad4bb390704.html",
+      "condition": "used"
+    },
+    {
+      "name": "Mitsubishi Outlander 2022 for salein Abbotsford",
+      "vin": "JA4J4UA81NZ603833",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/da817e7c9e17.html",
+      "condition": "used",
+      "price": 25980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks SVin Abbotsford",
-      "vin": "3N8AP6CE8TL358470",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/10554c5d5477.html",
-      "condition": "unknown",
-      "price": 29880.0,
+      "name": "RAM 1500 2022 for salein Abbotsford",
+      "vin": "1C6RRFCG2NN307499",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/fbe017b93f50.html",
+      "condition": "used",
+      "price": 30998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks Sin Abbotsford",
-      "vin": "3N8AP6BB0TL405790",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2d249d3002c1.html",
-      "condition": "unknown",
-      "price": 31648.0,
+      "name": "Subaru Ascent 2022 for salein Abbotsford",
+      "vin": "4S4WMAPD3N3417949",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/9fa93800176e.html",
+      "condition": "used",
+      "price": 30790.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks Sin Abbotsford",
-      "vin": "3N8AP6BBXTL405991",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c3eb497da8c0.html",
-      "condition": "unknown",
-      "price": 31648.0,
+      "name": "Tesla Model Y 2022 for salein Abbotsford",
+      "vin": "7SAYGDEF3NF541946",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/38f041dc6f4f.html",
+      "condition": "used",
+      "price": 40880.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks SRin Abbotsford",
-      "vin": "3N8AP6DD9TL406855",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c037ac9c58b4.html",
-      "condition": "unknown",
-      "price": 37798.0,
+      "name": "Toyota RAV4 2022 for salein Abbotsford",
+      "vin": "2T3R1RFV9NC281814",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/e0b4cb728a4f.html",
+      "condition": "used"
+    },
+    {
+      "name": "BMW X3 2023 for salein Abbotsford",
+      "vin": "5UX53DP05P9P89440",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/9eaf9979bd8d.html",
+      "condition": "used",
+      "price": 40998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks SRin Abbotsford",
-      "vin": "3N8AP6DD9TL407052",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a547ed40ed3f.html",
-      "condition": "unknown",
-      "price": 37548.0,
+      "name": "Nissan Frontier 2023 for salein Abbotsford",
+      "vin": "1N6ED1EK7PN652344",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/c803f4009b16.html",
+      "condition": "used",
+      "price": 45998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks Sin Abbotsford",
-      "vin": "3N8AP6BB4TL407266",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/af939e746ef3.html",
-      "condition": "unknown",
-      "price": 31648.0,
+      "name": "Acura ZDX 2024 for salein Abbotsford",
+      "vin": "4W5KHNRL7RZ501944",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/d63c1191739c.html",
+      "condition": "used",
+      "price": 48490.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks Sin Abbotsford",
-      "vin": "3N8AP6BB0TL407278",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/9f1d85f8b7fe.html",
-      "condition": "unknown",
-      "price": 31648.0,
+      "name": "BMW X4 2024 for salein Abbotsford",
+      "vin": "5UX33DT03R9T94852",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8954336a36ac.html",
+      "condition": "used",
+      "price": 47998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks Sin Abbotsford",
-      "vin": "3N8AP6BB3TL407906",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/9bc1f5150fb7.html",
-      "condition": "unknown",
-      "price": 31898.0,
+      "name": "Volkswagen Taos 2024 for salein Abbotsford",
+      "vin": "3VVUX7B22RM077338",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/49e9917c6eb8.html",
+      "condition": "used",
+      "price": 25990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Kicks Sin Abbotsford",
-      "vin": "3N8AP6BB2TL409047",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/488fb0cd92cf.html",
-      "condition": "unknown",
-      "price": 31648.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DDXTW482383",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/8fcf4f690044.html",
-      "condition": "unknown",
-      "price": 45928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DDXTW308894",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2083644bcfe0.html",
-      "condition": "unknown",
-      "price": 45928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD1TW482952",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/3820d094186d.html",
-      "condition": "unknown",
-      "price": 45928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD3TW309093",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/381b3dfe6df5.html",
-      "condition": "unknown",
-      "price": 45928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
-      "vin": "JN8BT3BB6TW377275",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c97a0d05004f.html",
-      "condition": "unknown",
-      "price": 41978.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue SV Moonroofin Abbotsford",
-      "vin": "JN8BT3BB5TW094219",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fe521dcf134e.html",
-      "condition": "unknown",
-      "price": 38850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue SV Moonroofin Abbotsford",
-      "vin": "JN8BT3BB4TW095653",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2d6a657ff8cf.html",
-      "condition": "unknown",
-      "price": 38850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue SV Moonroofin Abbotsford",
-      "vin": "JN8BT3BB4TW093921",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/35f994ff11ac.html",
-      "condition": "unknown",
-      "price": 38850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Sv Moonroofin Abbotsford",
-      "vin": "JN8BT3BB1TW384652",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/217eb36aa215.html",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Sv Moonroofin Abbotsford",
-      "vin": "JN8BT3BB1TW384652",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a32b01541259.html",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD0TW323064",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2fbf5f286c89.html",
-      "condition": "unknown",
-      "price": 49048.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD0TW323064",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/7a51b366d6db.html",
-      "condition": "unknown",
-      "price": 49048.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD1TW323221",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/f5bcbee6877b.html",
-      "condition": "unknown",
-      "price": 49048.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
-      "vin": "JN8BT3BB3TW387469",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/22e518db3f31.html",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
-      "vin": "JN8BT3BB8TW388424",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/72c3894afe7b.html",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD4TW322256",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fd0367a2cde9.html",
-      "condition": "unknown",
-      "price": 49593.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
-      "vin": "JN8BT3BB8TW388925",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2c04b8ff2bc2.html",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
-      "vin": "JN8BT3BB3TW388895",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a4e2d403183f.html",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
-      "vin": "JN8BT3BB3TW388895",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/6ce1046f23c9.html",
-      "condition": "unknown",
-      "price": 44448.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD2TW430410",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/cb73bbadaf19.html",
-      "condition": "unknown",
-      "price": 48798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD2TW430410",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/bac70dac5ad1.html",
-      "condition": "unknown",
-      "price": 48798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD8TW431366",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/6f8c0157f311.html",
-      "condition": "unknown",
-      "price": 49078.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD8TW431366",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/3e8e31f62e50.html",
-      "condition": "unknown",
-      "price": 49078.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD0TW431412",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/ff862580f46b.html",
-      "condition": "unknown",
-      "price": 49078.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD0TW431412",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/7295460f213d.html",
-      "condition": "unknown",
-      "price": 49078.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Sentra SVin Abbotsford",
-      "vin": "3N1AB9CV7TY303882",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/0fac07278a8e.html",
-      "condition": "unknown",
-      "price": 29218.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Nissan Ariya SVin Abbotsford",
-      "vin": "JN8DF0BF2VM830081",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/e9f160c938f0.html",
-      "condition": "unknown",
-      "price": 55748.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Nissan Ariya Platinumin Abbotsford",
-      "vin": "JN8DF0CHXVM830085",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/74b43a5f660b.html",
-      "condition": "unknown",
-      "price": 62398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Nissan Ariya SVin Abbotsford",
-      "vin": "JN8DF0BFXVM830104",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/97c08a613a68.html",
-      "condition": "unknown",
-      "price": 56398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Nissan LEAF SVin Abbotsford",
-      "vin": "JN1AZ2CA3VM401507",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/915e217a08bc.html",
-      "condition": "unknown",
-      "price": 51293.0,
+      "name": "Audi Q3 2025 for salein Abbotsford",
+      "vin": "WA1AUCF33S1079571",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/85f6ca0da90f.html",
+      "condition": "used",
+      "price": 34490.0,
       "price_currency": "CAD"
     },
     {
@@ -397,94 +175,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Ford Escape SELin Abbotsford",
-      "vin": "1FMCU0HD2JUC82933",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/5967180f96b3.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 14497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford Escape ",
-      "vin": "1FMCU0HD2JUC82933",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1ae9f13ff59c.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 14497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Forte LXin Abbotsford",
-      "vin": "3KPFK4A71JE163949",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/33626c447501.html",
-      "year": 2018,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 12998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Forte LXin Abbotsford",
-      "vin": "3KPFK4A71JE163949",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/82ad4ae9ecfc.html",
-      "year": 2018,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 12998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Forte ",
-      "vin": "3KPFK4A71JE163949",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/31b4da55c14b.html",
-      "year": 2018,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 12998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Nissan Armada Platinumin Abbotsford",
-      "vin": "JN8AY2NEXJ9734501",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/f2c13beec300.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Armada",
-      "condition": "used",
-      "price": 15590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Nissan Armada Platinumin Abbotsford",
-      "vin": "JN8AY2NEXJ9734501",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/913c39f26b77.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Armada",
-      "condition": "used",
-      "price": 15590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Nissan Armada ",
-      "vin": "JN8AY2NEXJ9734501",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/117513649055.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Armada",
-      "condition": "used",
-      "price": 15590.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Nissan Sentra SVin Abbotsford",
       "vin": "3N1AB7AP2JY292392",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/77bc7c0e2873.html",
@@ -496,6 +186,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Nissan Sentra SVin Abbotsford",
+      "vin": "3N1AB7AP2JY292392",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a23471d8e256.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 11990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Nissan Sentra ",
       "vin": "3N1AB7AP2JY292392",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6d8b0a9ea2c5.html",
@@ -504,39 +205,6 @@
       "model": "Sentra",
       "condition": "used",
       "price": 12990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Kia Sportage LXin Abbotsford",
-      "vin": "KNDPM3AC9K7510838",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8feb330d49b2.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 14980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Kia Sportage LXin Abbotsford",
-      "vin": "KNDPM3AC9K7510838",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/9a156d0f6517.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 14980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Kia Sportage ",
-      "vin": "KNDPM3AC9K7510838",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/d8e999c89963.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 14980.0,
       "price_currency": "CAD"
     },
     {
@@ -584,39 +252,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Toyota Camry LEin Abbotsford",
-      "vin": "4T1B11HK5KU817960",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/3c100f748775.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Toyota Camry LEin Abbotsford",
-      "vin": "4T1B11HK5KU817960",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6408a59f9b7f.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Toyota Camry ",
-      "vin": "4T1B11HK5KU817960",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/548806f91e30.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Acura MDX Tech Plusin Abbotsford",
       "vin": "5J8YD4H69LL800078",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/8da6c9ba77fd.html",
@@ -625,6 +260,17 @@
       "model": "MDX",
       "condition": "used",
       "price": 31998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Acura MDX Tech Plusin Abbotsford",
+      "vin": "5J8YD4H69LL800078",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/67af53f43890.html",
+      "year": 2020,
+      "make": "Acura",
+      "model": "MDX",
+      "condition": "used",
+      "price": 31490.0,
       "price_currency": "CAD"
     },
     {
@@ -639,14 +285,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Lexus RX ",
-      "vin": "2T2JZMDA3LC222459",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ac93247f9988.html",
+      "name": "2020 Nissan Kicks SVin Abbotsford",
+      "vin": "3N1CP5CV2LL549691",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/7f5873df721f.html",
       "year": 2020,
-      "make": "Lexus",
-      "model": "RX",
+      "make": "Nissan",
+      "model": "Kicks",
       "condition": "used",
-      "price": 39490.0,
+      "price": 14990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Nissan Kicks SVin Abbotsford",
+      "vin": "3N1CP5CV2LL549691",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/5a6e16bfdd94.html",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 14990.0,
       "price_currency": "CAD"
     },
     {
@@ -661,14 +318,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 BMW 3 Series 330i Xdrivein Abbotsford",
-      "vin": "3MW5R7J07M8B49663",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/25b62f641d70.html",
+      "name": "2021 BMW 3 Series Plug-In Hybrid North Americain Abbotsford",
+      "vin": "3MW5P9J05M8B83263",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/895855a786cd.html",
       "year": 2021,
       "make": "BMW",
-      "model": "3 Series",
+      "model": "3 Series Plug-In Hybrid",
       "condition": "used",
-      "price": 29490.0,
+      "price": 29988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 BMW 3 Series Plug-In Hybrid North Americain Abbotsford",
+      "vin": "3MW5P9J05M8B83263",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/233a2bd5177b.html",
+      "year": 2021,
+      "make": "BMW",
+      "model": "3 Series Plug-In Hybrid",
+      "condition": "used",
+      "price": 29988.0,
       "price_currency": "CAD"
     },
     {
@@ -701,7 +369,7 @@
       "make": "Kia",
       "model": "Rio5 LXin Abbotsford",
       "condition": "used",
-      "price": 13998.0,
+      "price": 13490.0,
       "price_currency": "CAD"
     },
     {
@@ -734,7 +402,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 18990.0,
+      "price": 16390.0,
       "price_currency": "CAD"
     },
     {
@@ -783,13 +451,13 @@
     },
     {
       "name": "2021 Nissan Kicks SVin Abbotsford",
-      "vin": "3N1CP5CV7ML476674",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/24b081b7ab03.html",
+      "vin": "3N1CP5CV1ML468246",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b6b029daa0ff.html",
       "year": 2021,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 18998.0,
+      "price": 18980.0,
       "price_currency": "CAD"
     },
     {
@@ -881,50 +549,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Corolla Hatchback Basein Abbotsford",
-      "vin": "JTNK4MBE1M3130852",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/17f2e14a2a73.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 22998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota Corolla Hatchback Basein Abbotsford",
-      "vin": "JTNK4MBE1M3130852",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/eea9890f4306.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 22998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota Corolla Hatchback ",
-      "vin": "JTNK4MBE1M3130852",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1787cab1c908.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Corolla Hatchback",
-      "condition": "used",
-      "price": 22998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota Highlander ",
-      "vin": "5TDLZRBH3MS160581",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/31bd7fc228d7.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 37590.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 BMW X2 Xdrive28iin Abbotsford",
       "vin": "WBXYJ1C02N5U24066",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/7a1eb24fba1e.html",
@@ -932,18 +556,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 26488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 BMW X2 ",
-      "vin": "WBXYJ1C02N5U24066",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/321e8175ae59.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "used",
-      "price": 26488.0,
+      "price": 25980.0,
       "price_currency": "CAD"
     },
     {
@@ -965,18 +578,29 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 26690.0,
+      "price": 25980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Mitsubishi Outlander ",
-      "vin": "JA4J4UA81NZ603833",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/da817e7c9e17.html",
+      "name": "2022 RAM 1500 Tradesmanin Abbotsford",
+      "vin": "1C6RRFCG2NN307499",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/fe579e77b9f2.html",
       "year": 2022,
-      "make": "Mitsubishi",
-      "model": "Outlander",
+      "make": "RAM",
+      "model": "1500",
       "condition": "used",
-      "price": 26690.0,
+      "price": 30998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 RAM 1500 Tradesmanin Abbotsford",
+      "vin": "1C6RRFCG2NN307499",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/2d5220aee237.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 30998.0,
       "price_currency": "CAD"
     },
     {
@@ -987,7 +611,7 @@
       "make": "Subaru",
       "model": "Ascent",
       "condition": "used",
-      "price": 34995.0,
+      "price": 30790.0,
       "price_currency": "CAD"
     },
     {
@@ -998,51 +622,29 @@
       "make": "Subaru",
       "model": "Ascent",
       "condition": "used",
-      "price": 34995.0,
+      "price": 30790.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Subaru Ascent ",
-      "vin": "4S4WMAPD3N3417949",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/9fa93800176e.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "Ascent",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Tesla Model Y ",
+      "name": "2022 Tesla Model Y Performancein Abbotsford",
       "vin": "7SAYGDEF3NF541946",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/38f041dc6f4f.html",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/51c4b986e28c.html",
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
       "condition": "used",
-      "price": 42190.0,
+      "price": 40880.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chrysler Grand Caravan SXTin Abbotsford",
-      "vin": "2C4RC1ZG4PR583564",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/111515c03127.html",
-      "year": 2023,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
+      "name": "2022 Tesla Model Y Performancein Abbotsford",
+      "vin": "7SAYGDEF3NF541946",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/74b1474a9a6e.html",
+      "year": 2022,
+      "make": "Tesla",
+      "model": "Model Y",
       "condition": "used",
-      "price": 31690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chrysler Grand Caravan ",
-      "vin": "2C4RC1ZG4PR583564",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ff404e87b772.html",
-      "year": 2023,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 31690.0,
+      "price": 40880.0,
       "price_currency": "CAD"
     },
     {
@@ -1076,28 +678,6 @@
       "model": "Odyssey",
       "condition": "unknown",
       "price": 43980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage LXin Abbotsford",
-      "vin": "KNDPU3AFXP7182573",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/6378f65c0f7a.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 21980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage ",
-      "vin": "KNDPU3AFXP7182573",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/45ca63829f22.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 21980.0,
       "price_currency": "CAD"
     },
     {
@@ -1200,17 +780,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Acura ZDX ",
-      "vin": "4W5KHNRL7RZ501944",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/d63c1191739c.html",
-      "year": 2024,
-      "make": "Acura",
-      "model": "ZDX",
-      "condition": "used",
-      "price": 48998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Acura MDX ",
       "vin": "5J8YE1H8XRL803593",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a0c2f4cb3338.html",
@@ -1222,15 +791,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW 3 Series ",
-      "vin": "3MW49FF06R8E04910",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/98bd07a58d50.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "3 Series",
-      "condition": "used"
-    },
-    {
       "name": "2024 Ford Bronco Sport Big Bendin Abbotsford",
       "vin": "3FMCR9B60RRE71809",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/da21318fcab7.html",
@@ -1238,7 +798,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 25999.0,
+      "price": 24790.0,
       "price_currency": "CAD"
     },
     {
@@ -1249,7 +809,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 25999.0,
+      "price": 24790.0,
       "price_currency": "CAD"
     },
     {
@@ -1261,17 +821,6 @@
       "model": "Bronco Sport",
       "condition": "used",
       "price": 25999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Transit Cargo Van ",
-      "vin": "1FTBR3U8XRKA46842",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/826380ddc4a2.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "used",
-      "price": 48500.0,
       "price_currency": "CAD"
     },
     {
@@ -1294,6 +843,17 @@
       "model": "Transit Cargo",
       "condition": "unknown",
       "price": 48500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Infiniti QX60 Purein Abbotsford",
+      "vin": "5N1DL1ES4RC337450",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0a1d7a8cb632.html",
+      "year": 2024,
+      "make": "Infiniti",
+      "model": "QX60",
+      "condition": "used",
+      "price": 39990.0,
       "price_currency": "CAD"
     },
     {
@@ -1374,17 +934,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Frontier ",
-      "vin": "1N6ED1FK3RN659471",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a4fb8c99eb7f.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Frontier",
-      "condition": "used",
-      "price": 45980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Kicks SVin Abbotsford",
       "vin": "3N1CP5CVXRL578770",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/48fcf3460bb3.html",
@@ -1392,7 +941,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 22990.0,
+      "price": 22490.0,
       "price_currency": "CAD"
     },
     {
@@ -1440,6 +989,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Volkswagen Taos Comfortlinein Abbotsford",
+      "vin": "3VVUX7B22RM077338",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/71ed1df7298d.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 25990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Volkswagen Taos Comfortlinein Abbotsford",
+      "vin": "3VVUX7B22RM077338",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0cdba848de52.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 25990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Volkswagen Tiguan Comfortlinein Abbotsford",
       "vin": "3VV2B7AX4RM132309",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1c54c807a1e3.html",
@@ -1484,14 +1055,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Audi Q3 ",
+      "name": "2025 Audi Q3 Basein Abbotsford",
       "vin": "WA1AUCF33S1079571",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/85f6ca0da90f.html",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ea9a2075a845.html",
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 34998.0,
+      "price": 34490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Audi Q3 Basein Abbotsford",
+      "vin": "WA1AUCF33S1079571",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/7b42fcee9437.html",
+      "year": 2025,
+      "make": "Audi",
+      "model": "Q3",
+      "condition": "used",
+      "price": 34490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Chrysler Pacifica Limitedin Abbotsford",
+      "vin": "2C4RC1GG6SR602711",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/bc57f5b8e095.html",
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 34500.0,
       "price_currency": "CAD"
     },
     {
@@ -1559,6 +1152,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Nissan Kicks Play SVin Abbotsford",
+      "vin": "3N1CP5CV7SL511291",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/495ae5352b6b.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 22990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play SVin Abbotsford",
+      "vin": "3N1CP5CV7SL511291",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/98a790d66e7d.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 22990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play S FWDin Abbotsford",
+      "vin": "3N1CP5BV6SL505970",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a019b6b5cac3.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 21888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play S FWDin Abbotsford",
+      "vin": "3N1CP5BV6SL505970",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/0d0df2130aac.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 21888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5BV6SL479726",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b5d4cc8be7b8.html",
@@ -1604,6 +1241,17 @@
     },
     {
       "name": "2025 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB0SW417641",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/faea0b008423.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 29898.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Rogue Sv Moonroofin Abbotsford",
       "vin": "JN8BT3BB3SW427922",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a6ce55a90586.html",
       "year": 2025,
@@ -1611,6 +1259,17 @@
       "model": "Rogue",
       "condition": "used",
       "price": 29598.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB3SW427922",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/f23ebcb4243b.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -1841,6 +1500,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Kicks SVin Abbotsford",
+      "vin": "3N8AP6CB5TL357833",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/56c6c53093da.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 29993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks SVin Abbotsford",
+      "vin": "3N8AP6CB2TL359815",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/07191a46f8a4.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 32980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks SRin Abbotsford",
+      "vin": "3N8AP6DD5TL360327",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/5e769e61eb60.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 35590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks SVin Abbotsford",
+      "vin": "3N8AP6CE8TL358470",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/10554c5d5477.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 29880.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Nissan Kicks SR demoin Abbotsford",
       "vin": "3N8AP6DD6TL402617",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/658051463eab.html",
@@ -1860,6 +1563,83 @@
       "model": "Kicks",
       "condition": "unknown",
       "price": 29980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks Sin Abbotsford",
+      "vin": "3N8AP6BB0TL405790",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2d249d3002c1.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 31648.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks Sin Abbotsford",
+      "vin": "3N8AP6BBXTL405991",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c3eb497da8c0.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 31648.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks SRin Abbotsford",
+      "vin": "3N8AP6DD9TL406855",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c037ac9c58b4.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 37798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks SRin Abbotsford",
+      "vin": "3N8AP6DD9TL407052",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a547ed40ed3f.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 37548.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks Sin Abbotsford",
+      "vin": "3N8AP6BB4TL407266",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/af939e746ef3.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 31648.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks Sin Abbotsford",
+      "vin": "3N8AP6BB0TL407278",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/9f1d85f8b7fe.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 31648.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Kicks Sin Abbotsford",
+      "vin": "3N8AP6BB3TL407906",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/9bc1f5150fb7.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 31898.0,
       "price_currency": "CAD"
     },
     {
@@ -1885,9 +1665,53 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Kicks Sin Abbotsford",
+      "vin": "3N8AP6BB2TL409047",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/488fb0cd92cf.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 31648.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DDXTW482383",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/8fcf4f690044.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 45928.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Nissan Rogue Platinum demoin Abbotsford",
       "vin": "JN8BT3DD7TW308853",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/88061fc57816.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 45928.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DDXTW308894",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2083644bcfe0.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 45928.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD1TW482952",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/3820d094186d.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
@@ -1907,6 +1731,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD3TW309093",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/381b3dfe6df5.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 45928.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
+      "vin": "JN8BT3BB6TW377275",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c97a0d05004f.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 41978.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Nissan Rogue Platinum demoin Abbotsford",
       "vin": "JN8BT3DD2TW312633",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/ac281c0d27ae.html",
@@ -1915,6 +1761,39 @@
       "model": "Rogue",
       "condition": "unknown",
       "price": 45928.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue SV Moonroofin Abbotsford",
+      "vin": "JN8BT3BB5TW094219",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fe521dcf134e.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 38850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue SV Moonroofin Abbotsford",
+      "vin": "JN8BT3BB4TW095653",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2d6a657ff8cf.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 38850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue SV Moonroofin Abbotsford",
+      "vin": "JN8BT3BB4TW093921",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/35f994ff11ac.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 38850.0,
       "price_currency": "CAD"
     },
     {
@@ -1929,6 +1808,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB1TW384652",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/217eb36aa215.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Sv Moonroofin Abbotsford",
+      "vin": "JN8BT3BB1TW384652",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a32b01541259.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Nissan Rogue Sv Moonroof demoin Abbotsford",
       "vin": "JN8BT3BB8TW383093",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/75430f9b1f09.html",
@@ -1937,6 +1838,182 @@
       "model": "Rogue",
       "condition": "unknown",
       "price": 39228.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD0TW323064",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2fbf5f286c89.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49048.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD0TW323064",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/7a51b366d6db.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49048.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD1TW323221",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/f5bcbee6877b.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49048.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
+      "vin": "JN8BT3BB3TW387469",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/22e518db3f31.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
+      "vin": "JN8BT3BB8TW388424",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/72c3894afe7b.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD4TW322256",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/fd0367a2cde9.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49593.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
+      "vin": "JN8BT3BB8TW388925",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2c04b8ff2bc2.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
+      "vin": "JN8BT3BB3TW388895",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/a4e2d403183f.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
+      "vin": "JN8BT3BB3TW388895",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/6ce1046f23c9.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD2TW430410",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/cb73bbadaf19.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 48798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD2TW430410",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/bac70dac5ad1.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 48798.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD8TW431366",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/6f8c0157f311.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49078.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD8TW431366",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/3e8e31f62e50.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49078.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD0TW431412",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/ff862580f46b.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49078.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
+      "vin": "JN8BT3DD0TW431412",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/7295460f213d.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 49078.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Sentra SVin Abbotsford",
+      "vin": "3N1AB9CV7TY303882",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/0fac07278a8e.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "unknown",
+      "price": 29218.0,
       "price_currency": "CAD"
     },
     {
@@ -2014,6 +2091,50 @@
       "model": "Z",
       "condition": "unknown",
       "price": 62998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Ariya SVin Abbotsford",
+      "vin": "JN8DF0BF2VM830081",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/e9f160c938f0.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "unknown",
+      "price": 55748.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Ariya Platinumin Abbotsford",
+      "vin": "JN8DF0CHXVM830085",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/74b43a5f660b.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "unknown",
+      "price": 62398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Ariya SVin Abbotsford",
+      "vin": "JN8DF0BFXVM830104",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/97c08a613a68.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "unknown",
+      "price": 56398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan LEAF SVin Abbotsford",
+      "vin": "JN1AZ2CA3VM401507",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/915e217a08bc.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Leaf",
+      "condition": "unknown",
+      "price": 51293.0,
       "price_currency": "CAD"
     }
   ]
