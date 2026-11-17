@@ -1,6 +1,6 @@
 # Abbotsford Nissan
 
- dealership in Abbotsford. AI-readable inventory mirror, about 199 vehicles.
+ dealership in Abbotsford. AI-readable inventory mirror, about 161 vehicles.
 
 - Official website: https://www.abbotsfordnissan.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/
