@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-11-17T06:53:49",
+  "generated_at": "2026-11-17T23:18:47",
   "vehicle_count": 161,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -80,11 +80,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Odyssey 2023 for salein Abbotsford",
+      "vin": "5FNRL6H87PB504195",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/951891b2036b.html",
+      "condition": "used",
+      "price": 42500.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Nissan Frontier 2023 for salein Abbotsford",
       "vin": "1N6ED1EK7PN652344",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/c803f4009b16.html",
       "condition": "used",
       "price": 45998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2023 for salein Abbotsford",
+      "vin": "5N1AT3AB4PC685959",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1589f9c9a61c.html",
+      "condition": "used",
+      "price": 21490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura MDX 2024 for salein Abbotsford",
+      "vin": "5J8YE1H8XRL803593",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a0c2f4cb3338.html",
+      "condition": "used",
+      "price": 52980.0,
       "price_currency": "CAD"
     },
     {
@@ -104,6 +128,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Infiniti QX60 2024 for salein Abbotsford",
+      "vin": "5N1DL1ES4RC337450",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/20f12bdfbac0.html",
+      "condition": "used",
+      "price": 39990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2024 for salein Abbotsford",
+      "vin": "KNDPUCDF1R7213756",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ebccd678fcc4.html",
+      "condition": "used",
+      "price": 28900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 2024 for salein Abbotsford",
+      "vin": "2T2BAMCA7RC071891",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/e889ba5dfecb.html",
+      "condition": "used",
+      "price": 57490.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Taos 2024 for salein Abbotsford",
       "vin": "3VVUX7B22RM077338",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/49e9917c6eb8.html",
@@ -117,6 +165,22 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/85f6ca0da90f.html",
       "condition": "used",
       "price": 34490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2025 for salein Abbotsford",
+      "vin": "1FTFW3L86SKE49976",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/22ddf1d9e549.html",
+      "condition": "used",
+      "price": 48988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks Play 2025 for salein Abbotsford",
+      "vin": "3N1CP5BV6SL479726",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b5d4cc8be7b8.html",
+      "condition": "used",
+      "price": 19998.0,
       "price_currency": "CAD"
     },
     {
@@ -615,17 +679,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda Odyssey ",
-      "vin": "5FNRL6H87PB504195",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/951891b2036b.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 43980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Nissan LEAF Sv Plusin Abbotsford",
       "vin": "1N4CZ1CV4PC559663",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/adc4573b5680.html",
@@ -666,7 +719,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 24290.0,
+      "price": 21490.0,
       "price_currency": "CAD"
     },
     {
@@ -678,28 +731,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 23980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue ",
-      "vin": "5N1AT3AB4PC685959",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/1589f9c9a61c.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 24290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Acura MDX ",
-      "vin": "5J8YE1H8XRL803593",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/a0c2f4cb3338.html",
-      "year": 2024,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 53390.0,
       "price_currency": "CAD"
     },
     {
@@ -747,17 +778,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Infiniti QX60 ",
-      "vin": "5N1DL1ES4RC337450",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/20f12bdfbac0.html",
-      "year": 2024,
-      "make": "Infiniti",
-      "model": "QX60",
-      "condition": "used",
-      "price": 41490.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Kia Sportage X-Linein Abbotsford",
       "vin": "KNDPUCDF1R7213756",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/83ce0f4947c6.html",
@@ -765,7 +785,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 29990.0,
+      "price": 28900.0,
       "price_currency": "CAD"
     },
     {
@@ -776,29 +796,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 29990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Sportage ",
-      "vin": "KNDPUCDF1R7213756",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/ebccd678fcc4.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 29990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Lexus RX ",
-      "vin": "2T2BBMCA4RC035167",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/e889ba5dfecb.html",
-      "year": 2024,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 54980.0,
+      "price": 28900.0,
       "price_currency": "CAD"
     },
     {
@@ -820,7 +818,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 22990.0,
+      "price": 22490.0,
       "price_currency": "CAD"
     },
     {
@@ -875,7 +873,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 29995.0,
+      "price": 28960.0,
       "price_currency": "CAD"
     },
     {
@@ -932,15 +930,6 @@
       "condition": "used",
       "price": 38490.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTFW3L86SKE49976",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/22ddf1d9e549.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used"
     },
     {
       "name": "2025 Lexus RZ ",
@@ -1009,17 +998,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5BV6SL479726",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/b5d4cc8be7b8.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Nissan Rogue Sv Moonroofin Abbotsford",
       "vin": "JN8BT3BB7SW156637",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/used/e43080f2c45e.html",
@@ -1071,7 +1049,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 29598.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
