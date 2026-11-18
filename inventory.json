@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-11-18T08:43:35",
-  "vehicle_count": 161,
+  "generated_at": "2026-11-18T08:53:10",
+  "vehicle_count": 162,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1107,17 +1107,6 @@
     },
     {
       "name": "New 2026 Nissan Kicks SRin Abbotsford",
-      "vin": "3N8AP6DD5TL360327",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/5e769e61eb60.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "unknown",
-      "price": 36490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Kicks SRin Abbotsford",
       "vin": "3N8AP6DD9TL406855",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c037ac9c58b4.html",
       "year": 2026,
@@ -1191,39 +1180,6 @@
       "model": "Pathfinder",
       "condition": "unknown",
       "price": 63498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DDXTW308894",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2083644bcfe0.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 47790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Platinumin Abbotsford",
-      "vin": "JN8BT3DD1TW482952",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/3820d094186d.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 48690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
-      "vin": "JN8BT3BB6TW377275",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/c97a0d05004f.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 42980.0,
       "price_currency": "CAD"
     },
     {
@@ -1557,6 +1513,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Rogue Rock Creekin Abbotsford",
+      "vin": "JN8BT3BB9TW389307",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/d23e3f23c579.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "unknown",
+      "price": 44993.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Nissan Ariya SVin Abbotsford",
       "vin": "JN8DF0BF2VM830081",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/e9f160c938f0.html",
@@ -1587,6 +1554,39 @@
       "model": "Ariya",
       "condition": "unknown",
       "price": 62398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Ariya SVin Abbotsford",
+      "vin": "JN8AF0BE8VM630252",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2e1d2e503b79.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "unknown",
+      "price": 51448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Ariya SV FWDin Abbotsford",
+      "vin": "JN8AF0BE1VM630111",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/042c7c7188e0.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "unknown",
+      "price": 51748.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Ariya SV FWDin Abbotsford",
+      "vin": "JN8AF0BE1VM630111",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/b881c9589dc6.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "unknown",
+      "price": 51748.0,
       "price_currency": "CAD"
     },
     {
@@ -1645,6 +1645,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Nissan Kicks Rock Creekin Abbotsford",
+      "vin": "3N8AP6CB7VL323847",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/8fb0304f276d.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 36098.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Kicks Rock Creekin Abbotsford",
+      "vin": "3N8AP6CB7VL323847",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/2a3df4a2143e.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "unknown",
+      "price": 36098.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Nissan LEAF SVin Abbotsford",
       "vin": "JN1AZ2CA3VM401507",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/915e217a08bc.html",
@@ -1656,25 +1678,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Nissan LEAF SVin Abbotsford",
-      "vin": "JN1AZ2CA0VM402873",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/08fa6949d067.html",
+      "name": "New 2027 Nissan Sentra Sv Premiumin Abbotsford",
+      "vin": "3N1AB9CV6VY228059",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/39b026b152ee.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf",
+      "model": "Sentra",
       "condition": "unknown",
-      "price": 50748.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Nissan LEAF Sin Abbotsford",
-      "vin": "JN1AZ2BA0VM401935",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/dfef9a18030d.html",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Leaf",
-      "condition": "unknown",
-      "price": 47748.0,
+      "price": 31218.0,
       "price_currency": "CAD"
     }
   ]
