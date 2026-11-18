@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-11-17T23:18:47",
+  "generated_at": "2026-11-17T23:25:50",
   "vehicle_count": 161,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1592,7 +1592,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Nissan Ariya Platinumin Abbotsford",
+      "name": "New 2027 Nissan Ariya PLATINUM+ e-4ORCE AWDin Abbotsford",
       "vin": "JN8DF0CHXVM830085",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/74b43a5f660b.html",
       "year": 2027,
