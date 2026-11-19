@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Nissan",
-  "generated_at": "2026-11-18T18:48:03",
-  "vehicle_count": 162,
+  "generated_at": "2026-11-18T19:05:39",
+  "vehicle_count": 163,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1660,6 +1660,17 @@
       "model": "Leaf",
       "condition": "unknown",
       "price": 51293.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan LEAF SVin Abbotsford",
+      "vin": "JN1AZ2CAXVM402444",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-nissan-mirror/inventory/ec1fb22eb6bc.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Leaf",
+      "condition": "unknown",
+      "price": 50748.0,
       "price_currency": "CAD"
     },
     {
